@@ -1,0 +1,4 @@
+"GIVER_EMAIL","GIVER_ID","GIVER_NAME","RECEIVER_EMAIL","RECEIVER_ID","RECEIVER_NAME"
+"p@gmail.com","3","Patty","s@gmail.com","1","Sambit"
+"s@gmail.com","1","Sambit","k@gmail.com","2","Kitty"
+"k@gmail.com","2","Kitty","p@gmail.com","3","Patty"
